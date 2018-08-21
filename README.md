@@ -1,1 +1,1 @@
-# bash
+minhas config git bash (.bashrc)
